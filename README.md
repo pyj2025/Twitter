@@ -32,7 +32,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/j0J8q6U.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Twitter - Part 1
